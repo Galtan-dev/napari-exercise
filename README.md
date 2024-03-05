@@ -57,3 +57,9 @@ mamba install -c conda-forge jupyterlab_code_formatter black isort
 ### napari-animation -- zajímavý nástroj na animace
 ### empanada-napari  -- segmentace nástroj
 ### segment anithing síť od facebooku
+### docela dobrá detailní analýza povrchu objektu
+### napari-blender-bridge
+### napari-cluster-ploter  -- nasegmentuje vybranou plochu
+### napari-chatGPT         -- otevřený projekt
+### napari assystant
+
