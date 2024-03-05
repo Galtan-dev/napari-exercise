@@ -52,3 +52,7 @@ optional: Code Formatting Jupyter Notebooks with Black
 ```
 mamba install -c conda-forge jupyterlab_code_formatter black isort
 ```
+
+## notes
+napari-animation
+# zajímavý nástorj na animace
