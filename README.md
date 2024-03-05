@@ -54,6 +54,6 @@ mamba install -c conda-forge jupyterlab_code_formatter black isort
 ```
 
 ## notes
-napari-animation -- zajímavý nástroj na animace
-empanada-napari  -- segmentace nástroj
-segment anithing síť od facebooku
+### napari-animation -- zajímavý nástroj na animace
+### empanada-napari  -- segmentace nástroj
+### segment anithing síť od facebooku
